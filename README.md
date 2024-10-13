@@ -1,11 +1,17 @@
 # ScienceAirports
 一些科学机场 Some Science Airports 
 
-ChatGPT
+ChatGPT Google
+
+
+
+
+
+
 
 # 写在前面
 
-## 关于套餐类型
+## 套餐类型
 
 一般分为按月收费和按量收费
 
@@ -32,6 +38,10 @@ ChatGPT
 
 
 对应套餐价格流量随时间有所波动 以对应机场实际为准 下面的套餐仅供参考
+
+
+
+
 
 # 魔戒
 
