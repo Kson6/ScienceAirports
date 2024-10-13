@@ -1,7 +1,7 @@
 # ScienceAirports
 一些科学机场 Some Science Airports 
 
-ChatGPT Google
+ChatGPT Google Clash AI Ssr Shadowsocks Trojan V2ray 
 
 
 
@@ -181,4 +181,4 @@ ChatGPT Google
 
 # 写在后面
 
-如果对你有帮助 可以点击右上角的免费Star
+如果对你有帮助 可以点击右上角的Star
