@@ -1,5 +1,5 @@
 # ScienceAirports
-一些科学机场 Some Science Airports 
+一些科学上网机场 Some scientific Internet access airports
 
 ChatGPT Google Clash AI Ssr Shadowsocks Trojan V2ray 
 
@@ -23,7 +23,7 @@ ChatGPT Google Clash AI Ssr Shadowsocks Trojan V2ray
 
 **适合人群**
 
-每个月流量使用需求大 比如刷视频 看YouTube Netflix等
+每个月流量使用需求大 比如刷视频 看YouTube Netflix P**nhub 91等
 
 
 
